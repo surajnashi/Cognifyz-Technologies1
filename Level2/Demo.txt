@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains some simple lines.
+Each line is short and easy to read.
